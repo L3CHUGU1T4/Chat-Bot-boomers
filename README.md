@@ -17,6 +17,4 @@ Este es el proyecto del Chatbot de Boomers desarrollado en Swift para dispositiv
   - `menu`: Imagen del menú de Boomers.
   - `combos`: Imagen de los combos disponibles.
   
-## Instrucciones de instalación
 
-1. Clona el repositorio a tu máquina local:
